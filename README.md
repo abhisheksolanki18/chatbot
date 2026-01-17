@@ -11,6 +11,6 @@
 
 🧪 Demo
 
-👉 **Live Preview:** [Click here to try Oracle]()
+👉 **Live Preview:** [Click here to try Oracle](https://abhisheksolanki18.github.io/chatbot/)
 # chatbot
 Oracle – AI Voice Assistant (Web-Based).
